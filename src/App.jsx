@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import MaintenancePage from './pages/MaintenancePage';
 import Home from './pages/Home';
 
@@ -14,6 +14,6 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
 
 
